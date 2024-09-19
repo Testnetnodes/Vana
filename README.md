@@ -69,7 +69,7 @@ poetry --version
 cp .env.example .env
 nano .env
 ```
-
+**Env dosyası aşağıdaki gibyse herşey yolunda, CTRL X + Y + Enter yapıp çıkalım. Kontrat deploy ettikten sonra bu dosyaya geri döneceğiz.**
 ```
 # The network to use, currently Vana Satori testnet
 OD_CHAIN_NETWORK=satori
